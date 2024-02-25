@@ -1,0 +1,16 @@
+# virtual environment
+__pycache__
+venv/
+
+# compiled files
+*.pyc
+
+# environment files
+env.*
+
+# editor files
+.vscode/
+.idea/
+
+# dependency directories
+__pypackages__
